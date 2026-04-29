@@ -261,5 +261,7 @@ Generate complete frontend code with:
 
 Focus on a visually impressive, interactive hackathon demo rather than full backend integration.
 
+---
+
 15.🌐 Live Website
 👉https://25a31a4357.github.io/PulsePath-AI/
